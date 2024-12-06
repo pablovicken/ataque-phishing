@@ -46,5 +46,5 @@ Este projeto é apenas para fins educativos e não deve ser usado para fins mali
 ## Contribuições 📚
 Este projeto é simples e pode ser expandido com mais funcionalidades. Se você deseja contribuir ou melhorar o projeto, fique à vontade para fazer um fork e enviar pull requests.
 
-### Licença 📍
+## Licença 📍
 Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
